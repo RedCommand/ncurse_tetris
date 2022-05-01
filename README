@@ -1,0 +1,9 @@
+commit norms :
+
+[ADD] : added elements
+[DEL] : deleted elements
+[EDIT] : edited elements
+[CODING STYLE] : matching coding style
+[FIX] : fixing a bug
+[NAME] : renaming a function or a file
+[MOVE] : moving a file in another folder
